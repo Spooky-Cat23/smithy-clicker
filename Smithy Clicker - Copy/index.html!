@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="eng" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Skyrim Clicker</title>
+    </head>
+    <body>
+        <p id="daggersSmithed">0 Daggers Smithed</p>
+        <button onclick="smithDagger()">Smith Dagger</button>
+        <script src="main.js" charset="utf-8" type="text/javascript"></script>
+    </body>
+</html>
+
+
+
